@@ -60,14 +60,14 @@ Rating
 # Technologies Used
 SQL
 # Peoject Structure
-amazon_data.sql: SQL script containing the data analysis queries
-README.md: Readme file providing an overview of the project
-amazon.csv: Folder containing the Amazon dataset
+- amazon_data.sql: SQL script containing the data analysis queries
+- README.md: Readme file providing an overview of the project
+- amazon.csv: Folder containing the Amazon dataset
 # Usage
-1.Connect to your MYSQL workbench.
-2.Execute the queries in the Amazon_Data_Analysis.sql script to perform the data analysis.
-3.Review the results to extract insights into product performance, sales trends, and customer behavior.
-4.Modify the queries as needed to customize the analysis or add new features.
+1. Connect to your MYSQL workbench.
+2. Execute the queries in the Amazon_Data_Analysis.sql script to perform the data analysis.
+3. Review the results to extract insights into product performance, sales trends, and customer behavior.
+4. Modify the queries as needed to customize the analysis or add new features.
 # Conclusion
 The Amazon data analysis project provides valuable insights into product performance, sales trends, and customer behavior using SQL queries. By leveraging these insights, businesses can make informed decisions to optimize strategies, drive revenue growth, and enhance customer satisfaction.
 
